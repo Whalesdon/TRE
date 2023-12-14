@@ -1,0 +1,300 @@
+Uri: https://ape.bond/earn
+File Name: C:\Downloaded Web Sites\ape.bond\earn-1.html
+Content Type: text/html
+
+Uri: https://ape.bond/earn?utm_source=Twitter&utm_campaign=earn&utm_medium=social
+File Name: C:\Downloaded Web Sites\ape.bond\earn.html
+Content Type: text/html
+
+Uri: https://ape.bond/images/navbar/bnw-ape-dark.svg
+File Name: C:\Downloaded Web Sites\ape.bond\images\navbar\bnw-ape-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://ape.bond/images/navbar/bonds-dark.svg
+File Name: C:\Downloaded Web Sites\ape.bond\images\navbar\bonds-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://ape.bond/images/navbar/documentation-dark.svg
+File Name: C:\Downloaded Web Sites\ape.bond\images\navbar\documentation-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://ape.bond/images/navbar/earn-dark.svg
+File Name: C:\Downloaded Web Sites\ape.bond\images\navbar\earn-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://ape.bond/images/navbar/governance-dark.svg
+File Name: C:\Downloaded Web Sites\ape.bond\images\navbar\governance-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://ape.bond/images/navbar/lhd-dark.svg
+File Name: C:\Downloaded Web Sites\ape.bond\images\navbar\lhd-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://ape.bond/images/navbar/markets-dark.svg
+File Name: C:\Downloaded Web Sites\ape.bond\images\navbar\markets-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://ape.bond/images/navbar/migration-dark.svg
+File Name: C:\Downloaded Web Sites\ape.bond\images\navbar\migration-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://ape.bond/images/navbar/more-dark.svg
+File Name: C:\Downloaded Web Sites\ape.bond\images\navbar\more-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://ape.bond/images/navbar/trading-dark.svg
+File Name: C:\Downloaded Web Sites\ape.bond\images\navbar\trading-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://ape.bond/meta/apebond/favicon.ico
+File Name: C:\Downloaded Web Sites\ape.bond\meta\apebond\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://ape.bond/_next/static/chunks/1106-d26c4bf6c87f5f14.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\chunks\1106-d26c4bf6c87f5f14.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/chunks/1660-b068249b63e68c08.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\chunks\1660-b068249b63e68c08.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/chunks/4517-644d8dfd74b1334d.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\chunks\4517-644d8dfd74b1334d.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/chunks/5472-4f706aaff8167d8b.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\chunks\5472-4f706aaff8167d8b.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/chunks/5732-aed8aadd65b1ec89.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\chunks\5732-aed8aadd65b1ec89.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/chunks/7478-f9e2882422e3de17.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\chunks\7478-f9e2882422e3de17.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/chunks/7743-db0ff6f975001c6c.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\chunks\7743-db0ff6f975001c6c.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/chunks/7848-477103d3fb3d0bfe.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\chunks\7848-477103d3fb3d0bfe.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/chunks/8153-05f666ac13fad206.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\chunks\8153-05f666ac13fad206.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/chunks/8745-d1730b451a51d4d7.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\chunks\8745-d1730b451a51d4d7.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/chunks/9192-6229fde327de9e1a.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\chunks\9192-6229fde327de9e1a.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/chunks/framework-a2363dd3c3dbe572.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\chunks\framework-a2363dd3c3dbe572.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/chunks/main-97cdfa766dbee824.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\chunks\main-97cdfa766dbee824.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/chunks/pages/earn-19fc75819141e9e3.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\chunks\pages\earn-19fc75819141e9e3.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/chunks/pages/_app-ff6e88bc0c74fd70.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\chunks\pages\_app-ff6e88bc0c74fd70.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\chunks\polyfills-78c92fac7aa8fdd8.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/chunks/webpack-c5f896a3165f22e5.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\chunks\webpack-c5f896a3165f22e5.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/css/be1d77abdb189a19.css
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\css\be1d77abdb189a19.css
+Content Type: text/css
+
+Uri: https://ape.bond/_next/static/O5Xgo6wwfIi2F2qbH1XYO/_buildManifest.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\O5Xgo6wwfIi2F2qbH1XYO\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://ape.bond/_next/static/O5Xgo6wwfIi2F2qbH1XYO/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\ape.bond\_next\static\O5Xgo6wwfIi2F2qbH1XYO\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://fonts.gstatic.com/s/azeretmono/v17/3XF5ErsiyJsY9O_Gepph-FvtTQgMQUdNekSfnPVh0Q.woff
+File Name: C:\Downloaded Web Sites\ape.bond\s\azeretmono\v17\3XF5ErsiyJsY9O_Gepph-FvtTQgMQUdNekSfnPVh0Q.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/azeretmono/v17/3XF5ErsiyJsY9O_Gepph-FvtTQgMQUdNekSfnPVR1byd2Z4nAdbJ.woff
+File Name: C:\Downloaded Web Sites\ape.bond\s\azeretmono\v17\3XF5ErsiyJsY9O_Gepph-FvtTQgMQUdNekSfnPVR1byd2Z4nAdbJ.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/azeretmono/v17/3XF5ErsiyJsY9O_Gepph-FvtTQgMQUdNekSfnPVR27yd2Z4nAdbJB8U.woff
+File Name: C:\Downloaded Web Sites\ape.bond\s\azeretmono\v17\3XF5ErsiyJsY9O_Gepph-FvtTQgMQUdNekSfnPVR27yd2Z4nAdbJB8U.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/kanit/v15/nKKU-Go6G5tXcr5KPxWnVaFrNlJz.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\kanit\v15\nKKU-Go6G5tXcr5KPxWnVaFrNlJz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/kanit/v15/nKKU-Go6G5tXcr5KPxWoVaFrNlJzIu4.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\kanit\v15\nKKU-Go6G5tXcr5KPxWoVaFrNlJzIu4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/kanit/v15/nKKU-Go6G5tXcr5KPxWpVaFrNlJzIu4.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\kanit\v15\nKKU-Go6G5tXcr5KPxWpVaFrNlJzIu4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/kanit/v15/nKKU-Go6G5tXcr5KPxWzVaFrNlJzIu4.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\kanit\v15\nKKU-Go6G5tXcr5KPxWzVaFrNlJzIu4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/kanit/v15/nKKU-Go6G5tXcr5KPyWj.woff
+File Name: C:\Downloaded Web Sites\ape.bond\s\kanit\v15\nKKU-Go6G5tXcr5KPyWj.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/kanit/v15/nKKZ-Go6G5tXcoaR.woff
+File Name: C:\Downloaded Web Sites\ape.bond\s\kanit\v15\nKKZ-Go6G5tXcoaR.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/kanit/v15/nKKZ-Go6G5tXcraaGwCKd6xBDFs.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\kanit\v15\nKKZ-Go6G5tXcraaGwCKd6xBDFs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/kanit/v15/nKKZ-Go6G5tXcraBGwCKd6xBDFs.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\kanit\v15\nKKZ-Go6G5tXcraBGwCKd6xBDFs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/kanit/v15/nKKZ-Go6G5tXcraVGwCKd6xB.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\kanit\v15\nKKZ-Go6G5tXcraVGwCKd6xB.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1g.woff
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1g.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4V1g.woff
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLDD4V1g.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z11lFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1JlFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlFd2JQEk.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1g.woff
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLDz8V1g.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z11lFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1JlFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1g.woff
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1g.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z11lFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1JlFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1g.woff
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1g.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z11lFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1JlFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJM.woff
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiEyp8kv8JHgFVrFJM.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\poppins\v20\pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/titanone/v15/mFTzWbsGxbbS_J5cQcjClDgm-khykw.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\titanone\v15\mFTzWbsGxbbS_J5cQcjClDgm-khykw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/titanone/v15/mFTzWbsGxbbS_J5cQcjCmjgm-khyk-RW.woff2
+File Name: C:\Downloaded Web Sites\ape.bond\s\titanone\v15\mFTzWbsGxbbS_J5cQcjCmjgm-khyk-RW.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/titanone/v15/mFTzWbsGxbbS_J5cQcjykA.woff
+File Name: C:\Downloaded Web Sites\ape.bond\s\titanone\v15\mFTzWbsGxbbS_J5cQcjykA.woff
+Content Type: font/woff
+
+Uri: https://frontend-git-feat-metadata-ape-swap-finance.vercel.app/meta/apebond/logo.png
+File Name: C:\Downloaded Web Sites\ape.bond\meta\apebond\logo.png
+Content Type: image/png
+
+Uri: https://s2.coinmarketcap.com/static/img/coins/64x64/19966.png
+File Name: C:\Downloaded Web Sites\ape.bond\static\img\coins\64x64\19966.png
+Content Type: image/png
+
+Uri: https://s2.coinmarketcap.com/static/img/coins/64x64/23335.png
+File Name: C:\Downloaded Web Sites\ape.bond\static\img\coins\64x64\23335.png
+Content Type: image/png
+
